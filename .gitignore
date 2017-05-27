@@ -4,6 +4,8 @@
 /dist
 /tmp
 /out-tsc
+/node_modules
+/bower_components
 
 # dependencies
 /node_modules
